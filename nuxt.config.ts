@@ -12,5 +12,16 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@nuxtjs/seo',
     'nuxt-lottie'
-  ]
+  ],
+  i18n: {
+    strategy: 'prefix_except_default',
+    defaultLocale: 'th',
+    detectBrowserLanguage: false,
+    locales: [
+      { code: 'en', language: 'en-US', file: 'en-US.json', name: 'English' },
+      { code: 'ja', language: 'ja-JP', file: 'ja-JP.json', name: '日本語' },
+      { code: 'zh', language: 'zh-CN', file: 'zh-CN.json', name: '中文' },
+      { code: 'th', language: 'th-TH', file: 'th-TH.json', name: 'ไทย' },
+    ],
+  },
 })

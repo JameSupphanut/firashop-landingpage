@@ -1,0 +1,506 @@
+{
+    "hello": "Hello",
+    "nav": {
+      "home": "Home",
+      "feature": "Feature",
+      "product": "Product",
+      "blog": "Blog",
+      "contact": "Contact Us"
+    },
+    "navbar": {
+      "language": "Language",
+      "ctaTrial": "Start Selling"
+    },
+    "hero": {
+      "headingMain": "All-in-One",
+      "subHeading": "For modern businesses",
+      "cta": "Start for free"
+    },
+    "section2": {
+      "heading": "No experience needed, sell online like a pro",
+      "subtext": "An all-in-one online store platform, ready to sell instantly. Easy to start, no entry fee, no monthly fee.",
+      "features": {
+        "onlineShop": "All-in-one online store system",
+        "backend": "Smart backend system",
+        "marketing": "Supports marketing and reach",
+        "security": "Secure and user-friendly"
+      }
+    },
+    "section3": {
+      "heading": "Start building the right website for you",
+      "points": {
+        "design": "Beautiful design",
+        "easy": "Easy to use",
+        "salesReady": "Built for every kind of selling"
+      }
+    },
+    "section4": {
+      "heading": "Easy to use for both store owners and customers",
+      "subtext": "Works on every device so you can get started with confidence",
+      "simulatorTitle": "Website color simulator",
+      "themePreviewAlt": "Website theme preview",
+      "themes": {
+        "red": "Red",
+        "blue": "Blue",
+        "orange": "Orange",
+        "pink": "Pink",
+        "green": "Green"
+      }
+    },
+    "section5": {
+      "just": "Just",
+      "ofTransactions": "of transactions",
+      "costOfChannel": "+ Cost of channel"
+    },
+    "homeArticles": {
+      "badge": "Knowledge updates",
+      "headingMobile": "Boost online sales\nfor your business",
+      "headingDesktop": "Boost sales\nonline\nfor your business",
+      "readAll": "Read all",
+      "other": "Others"
+    },
+    "contact": {
+      "left": {
+        "titleLine1": "Ready for Firashop",
+        "titleLine2": "to build your website",
+        "titleLine3": "for you?",
+        "subtitle": "Register to receive more service information"
+      },
+      "form": {
+        "title": "Contact form",
+        "firstName": {
+          "label": "First name",
+          "placeholder": "First name"
+        },
+        "lastName": {
+          "label": "Last name",
+          "placeholder": "Last name"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Email"
+        },
+        "phone": {
+          "label": "Phone",
+          "placeholder": "Phone"
+        },
+        "message": {
+          "label": "Message or your interest",
+          "placeholder": "Message or your interest"
+        },
+        "submit": "Contact us",
+        "submitting": "Sending...",
+        "error": "Something went wrong. Please try again."
+      },
+      "popup": {
+        "title": "Submitted successfully",
+        "body": "Thanks for your interest. Our team will get back to you soon.",
+        "ok": "OK"
+      }
+    },
+    "footer": {
+      "company": {
+        "description": "Firashop is your online store assistant to help you start selling right away without heavy upfront costs.",
+        "address": {
+          "line1": "165/49 Nirvana at Work Village",
+          "line2": "Ramintra Rd., Anusawari Subdistrict",
+          "line3": "Bang Khen, Bangkok 10220"
+        }
+      },
+      "newsletter": {
+        "title": "Subscribe to our newsletter",
+        "placeholder": "Enter your email",
+        "submit": "Subscribe",
+        "loading": "Subscribing...",
+        "invalidEmail": "Invalid email format",
+        "success": "Subscribed successfully. Thank you!",
+        "failed": "Subscription failed. Please try again later.",
+        "already": "This email is already subscribed"
+      },
+      "menu": {
+        "title": "Menu",
+        "items": {
+          "home": "Home",
+          "features": "Features",
+          "portfolio": "Portfolio",
+          "pricing": "Pricing",
+          "blog": "Blog",
+          "contact": "Contact Us"
+        }
+      },
+      "help": {
+        "title": "Help Center",
+        "items": {
+          "privacy": "Privacy Policy",
+          "terms": "Terms of Service",
+          "refund": "Refund Policy",
+          "faq": "FAQ"
+        }
+      },
+      "copyright": "©{year} Firashop. All rights reserved."
+    },
+    "hero01": {
+      "title": "Firashop",
+      "headline": "Own your online store\nready to use—no technical background needed",
+      "subtext": "We build a full-service webshop for business owners\nwho want a professional e-commerce site with an admin backend\nand ongoing support.",
+      "cards": [
+        "Attractive website design that reflects your brand",
+        "Turn-key webshop with managed back-office service",
+        "A support team to guide you throughout",
+        "Scales from small shops to enterprise"
+      ]
+    },
+    "features": {
+      "title": "Full Feature Set",
+      "cards": [
+        {
+          "title": "Complete Online Store System",
+          "items": [
+            "Cart and checkout flow with online payment",
+            "Customer accounts: sign up/sign in, profile, order history",
+            "Promotions: coupon codes, product reviews",
+            "Supports payment gateways (credit card, PromptPay)"
+          ]
+        },
+        {
+          "title": "Smart Back Office",
+          "items": [
+            "Manage orders, track status, and update shipments",
+            "Edit website content/images by yourself",
+            "Detailed order reports (charts or Excel export)"
+          ]
+        },
+        {
+          "title": "Marketing & Reach",
+          "items": [
+            "SEO-ready site structure by design",
+            "Share content to social media",
+            "Responsive across all devices",
+            "Connect Google Analytics and Search Console"
+          ]
+        },
+        {
+          "title": "Secure & User-Friendly",
+          "items": [
+            "Quick contact buttons: LINE / Messenger / phone",
+            "Cookie & PDPA notice (data protection compliance)",
+            "HTTPS security (SSL certificate) enabled"
+          ]
+        }
+      ]
+    },
+    "howitworks": {
+      "heading": "How it works ?",
+      "subheading": "Start selling online in a few simple steps",
+      "steps": {
+        "s1": {
+          "title": "1. Contact us",
+          "content": {
+            "description": "Reach out to the Firashop team via Line OA or Facebook Messenger",
+            "footer": "or use the website contact form to share your initial requirements."
+          }
+        },
+        "s2": {
+          "title": "2. Requirement gathering",
+          "content": {
+            "description": "We’ll ask for key business details such as:",
+            "items": [
+              "Product / service types",
+              "Target customers",
+              "Special needs (languages, payment methods, etc.)"
+            ]
+          }
+        },
+        "s3": {
+          "title": "3. Choose a base template",
+          "content": {
+            "description": "Pick from our fully featured webshop templates and customize:",
+            "items": [
+              "Brand colors",
+              "Logo",
+              "Illustrations / images",
+              "Product categories",
+              "Copy and details"
+            ],
+            "footer": "So your website reflects your brand identity and stands out."
+          }
+        },
+        "s4": {
+          "title": "4. Confirm your template",
+          "content": "Once you’re happy with the layout and features, we’ll provision your store on the Firashop platform."
+        },
+        "s5": {
+          "title": "5. Enter your content",
+          "content": "Add logo, primary colors, product categories, contact details, etc. via the back office. Guides and videos are provided—ready to go immediately."
+        },
+        "s6": {
+          "title": "6. Ongoing guidance",
+          "content": "The Firashop team provides continuous support and advice throughout your usage."
+        }
+      }
+    },
+    "cta": {
+      "help": {
+        "desktopLines": [
+          "We offer free consultations and initial assessments at no cost.",
+          "Don’t let your business opportunities slip away!"
+        ],
+        "mobileLines": [
+          "Free consultations",
+          "with an initial assessment",
+          "at no cost.",
+          "Don’t miss your",
+          "business opportunities!"
+        ],
+        "button": "Message the Firashop Team"
+      }
+    },
+    "allinone": {
+      "title": {
+        "desktop": [
+          "All essential features for your shop",
+          "in one place — no coding required"
+        ],
+        "mobile": [
+          "All essential features",
+          "for your online shop",
+          "no coding required"
+        ]
+      },
+      "desc": {
+        "desktop": [
+          "Start selling right away with a Webshop built",
+          "for business owners — beautiful design that elevates your brand,",
+          "complete with online marketing tools: discounts, promos, and SEO."
+        ],
+        "mobile": [
+          "Start selling right away with a Webshop",
+          "designed for business owners,",
+          "beautiful design to elevate your brand,",
+          "and full marketing tools — discounts,",
+          "promotions, and SEO."
+        ]
+      },
+      "cta": "Start building now"
+    },
+    "prodFeatures": {
+      "items": [
+        {
+          "label": "Responsive Design"
+        },
+        {
+          "label": "Customizable Design"
+        },
+        {
+          "label": "Easy Product Management"
+        },
+        {
+          "label": "Supports All Product Types"
+        },
+        {
+          "label": "SEO Ready"
+        },
+        {
+          "label": "Manage Orders & Customers"
+        }
+      ]
+    },
+    "sectionEasyBuild": {
+      "heading": "Make management easy like a pro",
+      "title": "Create your website effortlessly",
+      "lines": [
+        "Customize your logo, product images, details, colors, and fonts by yourself.",
+        "Easy to use—no design or coding experience required."
+      ]
+    },
+    "sectionRichFeatures": {
+      "titleLines": [
+        "Packed with real-world features",
+        "Covering every need",
+        "for your online store"
+      ],
+      "descLines": [
+        "From cart and online payments to a full member system,",
+        "promotions, and back office—works out of the box, no add-ons required.",
+        "Built to scale with your business."
+      ]
+    },
+    "sectionMarketing": {
+      "titleLines": [
+        "Grow with powerful",
+        "all-in-one online marketing tools"
+      ],
+      "descLines": [
+        "SEO-ready, social sharing, and Google Analytics integration",
+        "Help customers find you easier and measure what matters."
+      ]
+    },
+    "sectionSafety": {
+      "titleLines": [
+        "Secure and easy to use",
+        "Customers feel confident",
+        "Store owners feel at ease"
+      ],
+      "descLines": [
+        "HTTPS (SSL), cookie consent, PDPA compliance, and complete contact tools",
+        "Operate lawfully and build confidence for everyone."
+      ],
+      "imgAlt": "Secure, easy to use, and compliant"
+    },
+    "sectionDashboard": {
+      "titleLines": [
+        "Easily manage your back office",
+        "No IT team required"
+      ],
+      "descLines": [
+        "Edit content, update product images, check orders, and view sales reports—all by yourself.",
+        "Includes professional reporting."
+      ]
+    },
+    "blog": {
+      "hero": {
+        "titleLines": [
+          "Grow your online sales with fresh insights"
+        ],
+        "subtitleLines": [
+          "Follow practical tips to better understand",
+          "the world of digital marketing"
+        ]
+      },
+      "search": {
+        "placeholder": "Search articles...",
+        "button": "Search"
+      },
+      "categoriesAll": "All articles",
+      "state": {
+        "loading": "Loading articles...",
+        "empty": "No articles in this category",
+        "catError": "Failed to load categories",
+        "loadError": "Failed to load articles"
+      },
+      "misc": {
+        "other": "Other"
+      }
+    },
+    "blogDetail": {
+      "back": "Back",
+      "breadcrumb": {
+        "aria": "Breadcrumb",
+        "home": "Home",
+        "blog": "Blog"
+      },
+      "share": {
+        "label": "Share article"
+      },
+      "recommended": {
+        "title": "Blogs Recommended"
+      },
+      "state": {
+        "notFound": "This article was not found",
+        "loadError": "Failed to load the article"
+      },
+      "misc": {
+        "other": "Other"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions (FAQ)",
+      "prefix": {
+        "q": "Q:",
+        "a": "A:"
+      },
+      "state": {
+        "loading": "Loading questions...",
+        "error": "Failed to load FAQ",
+        "empty": "No FAQs yet"
+      }
+    },
+    "contactp": {
+      "hero": {
+        "titleTop": "A Webshop platform for",
+        "titleEmphasis": "people who want to sell online like pros",
+        "titleMobileLine1": "Sell online",
+        "titleMobileLine2": "like a pro"
+      },
+      "images": {
+        "mainAlt": "contact illustration",
+        "iconAlt": "decorative icon"
+      },
+      "block": {
+        "heading": {
+          "p1": "We are a team of",
+          "p2": "who truly understand online sellers"
+        },
+        "box": {
+          "p1": {
+            "line1": "Turnkey online stores with a complete",
+            "line2": "back office — easy to use and ready to sell"
+          },
+          "p2": "No coding needed — no extra hires.",
+          "p3": {
+            "line1": "Whether you're just starting or leveling up your store,",
+            "line2": "Firashop gives you a shop you can fully control."
+          }
+        }
+      }
+    },
+    "Category": "Category",
+    "About Cookies on this website": "About Cookies on this website",
+    "Cookies are categorized and you can allow or reject them. Closing a category will remove related cookies from the browser. See the": "Cookies are categorized and you can allow or reject them. Closing a category will remove related cookies from the browser. See the",
+    "Cookie Policy": "Cookie Policy",
+    "for more details": "for more details",
+    "Essential Cookies": "Essential Cookies",
+    "Some cookies are essential for the basic functioning of the website": "Some cookies are essential for the basic functioning of the website",
+    "Required": "Required",
+    "The website will not work correctly if these cookies are not present and will be enabled by default and cannot be closed": "The website will not work correctly if these cookies are not present and will be enabled by default and cannot be closed",
+    "Settings": "Settings",
+    "Cookies for settings": "Cookies for settings",
+    "These cookies help the website remember your settings": "These cookies help the website remember your settings",
+    "Analytics Cookies": "Analytics Cookies",
+    "Help us understand how users use the website": "Help us understand how users use the website",
+    "Marketing Cookies": "Marketing Cookies",
+    "These cookies are used to show relevant ads to you and measure the effectiveness of marketing campaigns": "These cookies are used to show relevant ads to you and measure the effectiveness of marketing campaigns",
+    "Used to show relevant ads to you": "Used to show relevant ads to you",
+    "Accept All": "Accept All",
+    "Reject All": "Reject All",
+    "Save Settings": "Save Settings",
+    "Cookie Consent": "Cookie Consent",
+    "seo": {
+      "home": {
+        "title": "FiraShop – All-in-One B2B eCommerce Solution",
+        "description": "Start selling online with FiraShop — simple, secure, and built for every business."
+      },
+      "product": {
+        "title": "About FiraShop – B2B eCommerce Platform Overview",
+        "description": "A powerful B2B platform for connecting businesses, with Web & Mobile support."
+      },
+      "feature": {
+        "title": "FiraShop Features – Smart Store Management Tools",
+        "description": "Discover features like smart backend, secure payments, and marketing tools for B2B growth."
+      },
+      "blog": {
+        "title": "FiraShop Blog – Insights & Tips for B2B eCommerce",
+        "description": " Explore articles, news, and digital marketing tips for B2B businesses."
+      },
+      "contact": {
+        "title": "Contact FiraShop – Get in Touch with Us",
+        "description": "Reach out for more details or to start using FiraShop today."
+      },
+      "faq": {
+        "title": "FAQ - Firashop",
+        "description": "Frequently asked questions about Firashop, the comprehensive online store platform."
+      },
+      "policy": {
+        "title": "Privacy Policy - Firashop",
+        "description": "Firashop's privacy policy, personal data management and data protection."
+      },
+      "terms": {
+        "title": "Terms of Service - Firashop",
+        "description": "Firashop's terms of service, rules and agreements for using our platform."
+      },
+      "refund": {
+        "title": "Refund Policy - Firashop",
+        "description": "Firashop's refund policy, terms and procedures for requesting refunds."
+      }
+    }
+  }
