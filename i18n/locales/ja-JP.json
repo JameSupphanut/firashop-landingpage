@@ -1,3 +1,505 @@
 {
-    "hello": "こんにちは"
+    "hello": "こんにちは",
+    "nav": {
+        "home": "ホーム",
+        "feature": "機能",
+        "product": "商品",
+        "blog": "ブログ",
+        "contact": "お問い合わせ"
+      },
+      "navbar": {
+        "language": "言語",
+        "ctaTrial": "ショップを開設する"
+      },
+      "hero": {
+        "headingMain": "オールインワン",
+        "subHeading": "現代のビジネスのために",
+        "cta": "無料ではじめる"
+      },
+      "section2": {
+        "heading": "経験がなくてもプロのようにオンライン販売可能",
+        "subtext": "オールインワンのオンラインショッププラットフォーム。すぐに販売開始。簡単に始められ、初期費用も月額費用も不要。",
+        "features": {
+          "onlineShop": "オールインワンのオンラインショップシステム",
+          "backend": "スマートなバックエンドシステム",
+          "marketing": "マーケティングとリーチに対応",
+          "security": "安全でユーザーフレンドリー"
+        }
+      },
+      "section3": {
+        "heading": "あなたに最適なウェブサイトづくりを始めましょう",
+        "points": {
+          "design": "美しいデザイン",
+          "easy": "使いやすい",
+          "salesReady": "あらゆる販売ニーズに対応"
+        }
+      },
+      "section4": {
+        "heading": "店舗運営者にも顧客にも使いやすい設計",
+        "subtext": "あらゆるデバイスに対応し、安心して始められます",
+        "simulatorTitle": "サイトカラーのシミュレーター",
+        "themePreviewAlt": "サイトテーマのプレビュー",
+        "themes": {
+          "red": "レッド",
+          "blue": "ブルー",
+          "orange": "オレンジ",
+          "pink": "ピンク",
+          "green": "グリーン"
+        }
+      },
+      "section5": {
+        "just": "わずか",
+        "ofTransactions": "取引のうち",
+        "costOfChannel": "+ チャネルコスト"
+      },
+      "homeArticles": {
+        "badge": "ナレッジアップデート",
+        "headingMobile": "オンライン売上を伸ばして\nビジネスを加速",
+        "headingDesktop": "オンライン売上を\n伸ばして\nビジネスを加速",
+        "readAll": "すべて見る",
+        "other": "その他"
+      },
+      "contact": {
+        "left": {
+          "titleLine1": "Firashop にお任せで",
+          "titleLine2": "あなたのウェブサイトを",
+          "titleLine3": "作りませんか？",
+          "subtitle": "サービスの詳細を受け取るためにご登録ください"
+        },
+        "form": {
+          "title": "お問い合わせフォーム",
+          "firstName": {
+            "label": "名",
+            "placeholder": "名"
+          },
+          "lastName": {
+            "label": "姓",
+            "placeholder": "姓"
+          },
+          "email": {
+            "label": "メールアドレス",
+            "placeholder": "メールアドレス"
+          },
+          "phone": {
+            "label": "電話番号",
+            "placeholder": "電話番号"
+          },
+          "message": {
+            "label": "メッセージ／ご要望",
+            "placeholder": "メッセージ／ご要望"
+          },
+          "submit": "お問い合わせ",
+          "submitting": "送信中…",
+          "error": "送信に失敗しました。もう一度お試しください。"
+        },
+        "popup": {
+          "title": "送信が完了しました",
+          "body": "お問い合わせありがとうございます。担当者より追ってご連絡いたします。",
+          "ok": "確認"
+        }
+      },
+      "footer": {
+        "company": {
+          "description": "Firashop は、大きな初期投資なしで今すぐ販売を始められるオンラインストアの強力なアシスタントです。",
+          "address": {
+            "line1": "165/49 Nirvana at Work Village",
+            "line2": "Ramintra Rd., Anusawari",
+            "line3": "Bang Khen, Bangkok 10220"
+          }
+        },
+        "newsletter": {
+          "title": "ニュースレターに登録する",
+          "placeholder": "メールアドレスを入力してください",
+          "submit": "登録",
+          "loading": "登録中...",
+          "invalidEmail": "メールアドレスの形式が正しくありません",
+          "success": "購読が完了しました。ありがとうございます！",
+          "failed": "購読に失敗しました。後でもう一度お試しください。",
+          "already": "このメールアドレスはすでに登録されています"
+        },
+        "menu": {
+          "title": "メニュー",
+          "items": {
+            "home": "ホーム",
+            "features": "機能",
+            "portfolio": "ポートフォリオ",
+            "pricing": "料金",
+            "blog": "ブログ",
+            "contact": "お問い合わせ"
+          }
+        },
+        "help": {
+          "title": "ヘルプセンター",
+          "items": {
+            "privacy": "プライバシーポリシー",
+            "terms": "利用規約",
+            "refund": "返金ポリシー",
+            "faq": "よくある質問"
+          }
+        },
+        "copyright": "©{year} Firashop. 無断転載を禁じます。"
+      },
+      "hero01": {
+        "title": "Firashop",
+        "headline": "技術知識がなくても\nすぐに使える自社オンラインストアを",
+        "subtext": "ビジネスオーナー向けに、管理画面付きの\nプロフェッショナルな Webショップを一括構築。\n運用サポートも継続的にご提供します。",
+        "cards": [
+          "ブランドを映す魅力的なサイトデザイン",
+          "バックオフィス運用込みの完成済み Webショップ",
+          "運用全体をサポートする専任チーム",
+          "小規模からエンタープライズまで拡張可能"
+        ]
+      },
+      "features": {
+        "title": "充実した機能セット",
+        "cards": [
+          {
+            "title": "オンラインショップ一式",
+            "items": [
+              "カートとチェックアウト、オンライン決済に対応",
+              "会員機能：新規登録／ログイン、顧客情報、購入履歴",
+              "プロモーション：クーポンコード、商品レビュー",
+              "各種決済ゲートウェイ対応（クレジットカード、PromptPay）"
+            ]
+          },
+          {
+            "title": "スマートな管理画面",
+            "items": [
+              "受注管理・ステータス確認・配送状況の更新",
+              "サイトの文章／画像を自分で編集可能",
+              "受注レポート（グラフ表示／Excel出力）"
+            ]
+          },
+          {
+            "title": "マーケティング＆リーチ",
+            "items": [
+              "SEO を意識したサイト構造を標準装備",
+              "SNS へのコンテンツ共有に対応",
+              "全デバイスに最適化（レスポンシブ）",
+              "Google Analytics / Search Console と連携"
+            ]
+          },
+          {
+            "title": "安全で使いやすい設計",
+            "items": [
+              "LINE／Messenger／電話のクイックコンタクト",
+              "Cookie・PDPA 告知（データ保護法準拠）",
+              "HTTPS（SSL 証明書）による通信の暗号化"
+            ]
+          }
+        ]
+      },
+      "howitworks": {
+        "heading": "使い方は？",
+        "subheading": "数ステップでオンライン販売を開始",
+        "steps": {
+          "s1": {
+            "title": "1. お問い合わせ",
+            "content": {
+              "description": "Firashop チームへは LINE OA や Facebook Messenger からご連絡いただけます。",
+              "footer": "または、Webサイトのお問い合わせフォームからご要件をお知らせください。"
+            }
+          },
+          "s2": {
+            "title": "2. 要件ヒアリング",
+            "content": {
+              "description": "以下のようなビジネス情報を伺います：",
+              "items": [
+                "商品／サービスの種類",
+                "想定顧客（ターゲット）",
+                "対応言語や決済などの特別要件"
+              ]
+            }
+          },
+          "s3": {
+            "title": "3. ベーステンプレートを選択",
+            "content": {
+              "description": "機能が充実したテンプレートから選び、次の要素をカスタマイズできます：",
+              "items": [
+                "ブランドカラー",
+                "ロゴ",
+                "画像・イラスト",
+                "商品カテゴリ",
+                "文言・各種テキスト"
+              ],
+              "footer": "自社ブランドの世界観に合う、独自性のあるサイトに仕上げます。"
+            }
+          },
+          "s4": {
+            "title": "4. テンプレートを確定",
+            "content": "レイアウトと機能にご満足いただけたら、Firashop 上にストアを開設します。"
+          },
+          "s5": {
+            "title": "5. コンテンツ入力",
+            "content": "ロゴ、基調色、商品カテゴリ、連絡先などを管理画面から登録。マニュアルと動画付きですぐ運用開始できます。"
+          },
+          "s6": {
+            "title": "6. 継続サポート",
+            "content": "Firashop チームが運用中も継続してサポート・アドバイスします。"
+          }
+        }
+      },
+      "cta": {
+        "help": {
+          "desktopLines": [
+            "無料でご相談・初期診断を承ります。",
+            "このチャンスをビジネスに活かしましょう！"
+          ],
+          "mobileLines": [
+            "無料相談",
+            "初期診断も",
+            "費用はかかりません",
+            "この機会を",
+            "逃さないでください！"
+          ],
+          "button": "Firashop チームに連絡する"
+        }
+      },
+      "allinone": {
+        "title": {
+          "desktop": [
+            "ネットショップに必要な機能をすべて搭載",
+            "コード不要でこれ一つ"
+          ],
+          "mobile": [
+            "必要な機能はすべて",
+            "この一箇所に",
+            "コードは不要"
+          ]
+        },
+        "desc": {
+          "desktop": [
+            "事業者さまのために設計された Webshop で今すぐ販売開始。",
+            "ブランドイメージを高める美しいデザインに、",
+            "割引・プロモーション・SEO までマーケ機能を完備。"
+          ],
+          "mobile": [
+            "事業者さま向けに設計された Webshop で",
+            "すぐに販売を開始できます。",
+            "ブランドを引き立てるデザインと、",
+            "割引・プロモーション・",
+            "SEO などの機能を完備。"
+          ]
+        },
+        "cta": "今すぐ始める"
+      },
+      "prodFeatures": {
+        "items": [
+          {
+            "label": "レスポンシブデザイン"
+          },
+          {
+            "label": "カスタマイズ可能なデザイン"
+          },
+          {
+            "label": "かんたん商品管理"
+          },
+          {
+            "label": "あらゆる商品タイプに対応"
+          },
+          {
+            "label": "SEO 対応"
+          },
+          {
+            "label": "受注・顧客管理"
+          }
+        ]
+      },
+      "sectionEasyBuild": {
+        "heading": "プロのようにかんたん管理",
+        "title": "かんたんにウェブサイトを作成",
+        "lines": [
+          "ロゴ・商品画像・商品情報・カラー・フォントを自分でカスタマイズ。",
+          "デザインやコーディングの知識は不要で、誰でも簡単。"
+        ]
+      },
+      "sectionRichFeatures": {
+        "titleLines": [
+          "実運用に強い充実機能",
+          "ネットショップのニーズを",
+          "これ一つで網羅"
+        ],
+        "descLines": [
+          "カート・オンライン決済・会員機能から、",
+          "プロモーションや管理画面まで拡張不要でそのまま使えます。",
+          "ビジネスの成長にも柔軟に対応。"
+        ]
+      },
+      "sectionMarketing": {
+        "titleLines": [
+          "成長を後押しする",
+          "オールインワンのオンラインマーケ機能"
+        ],
+        "descLines": [
+          "SEO 対応・SNS シェア・Google Analytics 連携を標準搭載。",
+          "見つけてもらいやすく、効果測定もしっかり。"
+        ]
+      },
+      "sectionSafety": {
+        "titleLines": [
+          "安全・かんたん",
+          "お客様も安心",
+          "店舗オーナーも安心"
+        ],
+        "descLines": [
+          "HTTPS（SSL）対応、クッキー同意、PDPA 準拠、問い合わせ機能を完備",
+          "法令に沿って安心して運用できます。"
+        ],
+        "imgAlt": "安全で使いやすく、法令順守"
+      },
+      "sectionDashboard": {
+        "titleLines": [
+          "かんたんに管理できる",
+          "ITチームは不要"
+        ],
+        "descLines": [
+          "コンテンツ編集、商品画像の更新、注文確認、売上レポートまで、自分で完結できます。",
+          "プロ仕様のレポート機能も搭載。"
+        ]
+      },
+      "blog": {
+        "hero": {
+          "titleLines": [
+            "最新の知見でオンライン売上を伸ばそう"
+          ],
+          "subtitleLines": [
+            "デジタルマーケティングをより深く理解できる",
+            "実践的なヒントを配信中"
+          ]
+        },
+        "search": {
+          "placeholder": "記事を検索…",
+          "button": "検索"
+        },
+        "categoriesAll": "すべての記事",
+        "state": {
+          "loading": "記事を読み込み中…",
+          "empty": "このカテゴリには記事がありません",
+          "catError": "カテゴリの読み込みに失敗しました",
+          "loadError": "記事の読み込みに失敗しました"
+        },
+        "misc": {
+          "other": "その他"
+        }
+      },
+      "blogDetail": {
+        "back": "戻る",
+        "breadcrumb": {
+          "aria": "パンくずリスト",
+          "home": "ホーム",
+          "blog": "ブログ"
+        },
+        "share": {
+          "label": "記事を共有"
+        },
+        "recommended": {
+          "title": "おすすめの記事"
+        },
+        "state": {
+          "notFound": "この記事は見つかりませんでした",
+          "loadError": "記事の読み込みに失敗しました"
+        },
+        "misc": {
+          "other": "その他"
+        }
+      },
+      "faq": {
+        "title": "よくある質問（FAQ）",
+        "prefix": {
+          "q": "Q：",
+          "a": "A："
+        },
+        "state": {
+          "loading": "質問を読み込み中…",
+          "error": "FAQの読み込み中にエラーが発生しました",
+          "empty": "現在、FAQはありません"
+        }
+      },
+      "contactp": {
+        "hero": {
+          "titleTop": "Webshop プラットフォーム",
+          "titleEmphasis": "プロのようにオンライン販売を始めたい方へ",
+          "titleMobileLine1": "オンライン販売を",
+          "titleMobileLine2": "プロのように"
+        },
+        "images": {
+          "mainAlt": "お問い合わせイラスト",
+          "iconAlt": "装飾アイコン"
+        },
+        "block": {
+          "heading": {
+            "p1": "私たちは",
+            "p2": "オンライン販売者を本当に理解するチームです"
+          },
+          "box": {
+            "p1": {
+              "line1": "完成済みのオンラインショップを提供し、",
+              "line2": "充実した管理機能で今すぐ販売を開始できます"
+            },
+            "p2": "コーディング不要、追加採用も不要。",
+            "p3": {
+              "line1": "これから始める方も、ショップを格上げしたい方も、",
+              "line2": "Firashop なら 100% 自分でコントロールできます。"
+            }
+          }
+        }
+      },
+      "Category": "カテゴリー",
+      "About Cookies on this website": "このウェブサイトについてのCookie",
+      "Cookies are categorized and you can allow or reject them. Closing a category will remove related cookies from the browser. See the": "Cookieは分類されており、許可または拒否することができます。カテゴリーを閉じると、関連するCookieがブラウザから削除されます。詳細は",
+      "Cookie Policy": "Cookieポリシー",
+      "for more details": "詳細は",
+      "Essential Cookies": "必須Cookie",
+      "Some cookies are essential for the basic functioning of the website": "ウェブサイトの基本的な機能を維持するために必要なCookie",
+      "Required": "必須",
+      "The website will not work correctly if these cookies are not present and will be enabled by default and cannot be closed": "これらのCookieが存在しない場合、ウェブサイトは正しく機能しません。デフォルトで有効になり、閉じることができません。",
+      "Settings": "設定",
+      "Cookies for settings": "設定用Cookie",
+      "These cookies help the website remember your settings": "これらのCookieは、ウェブサイトがあなたの設定を記憶するのに役立ちます",
+      "Analytics Cookies": "分析用Cookie",
+      "Help us understand how users use the website": "ユーザーがウェブサイトをどのように使用しているかを理解するのに役立ちます",
+      "Marketing Cookies": "マーケティング用Cookie",
+      "These cookies are used to show relevant ads to you and measure the effectiveness of marketing campaigns": "これらのCookieは、関連する広告を表示し、マーケティングキャンペーンの効果を測定するために使用されます",
+      "Accept All": "すべて許可",
+      "Reject All": "すべて拒否",
+      "Save Settings": "設定を保存",
+      "Cookie Consent": "Cookie同意",
+      "seo": {
+        "home": {
+          "title": "FiraShop – オールインワンB2B eコマースソリューション",
+          "description": "FiraShopでオンライン販売を開始。簡単・安全・あらゆるビジネスに対応。"
+        },
+        "product": {
+          "title": "FiraShopについて – B2B eコマースプラットフォーム概要",
+          "description": "Web & Mobile対応の強力なB2B接続プラットフォーム。"
+        },
+        "feature": {
+          "title": "FiraShopの機能 – スマートな店舗管理ツール",
+          "description": "スマートな管理機能やセキュア決済でB2B成長をサポート。"
+        },
+        "blog": {
+          "title": "FiraShopブログ – B2B eコマースの洞察とヒント",
+          "description": "記事やデジタルマーケティングのコツをチェック。"
+        },
+        "contact": {
+          "title": "FiraShopにお問い合わせ – ご相談・導入はこちら",
+          "description": "詳細情報や導入相談はお気軽にお問い合わせください。"
+        },
+        "faq": {
+          "title": "よくある質問 - FiraShop",
+          "description": "FiraShopのオールインワンB2B eコマースソリューションに関するよくある質問。"
+        },
+        "policy": {
+          "title": "プライバシーポリシー - FiraShop",
+          "description": "FiraShopのプライバシーポリシー、個人データ管理およびデータ保護について。"
+        },
+        "terms": {
+          "title": "利用規約 - FiraShop",
+          "description": "FiraShopの利用規約、プラットフォーム利用に関するルールと契約。"
+        },
+        "refund": {
+          "title": "返金ポリシー - FiraShop",
+          "description": "FiraShopの返金ポリシー、返金請求の条件と手順。"
+        }
+      }
 }
