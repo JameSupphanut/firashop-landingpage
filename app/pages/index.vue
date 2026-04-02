@@ -1,6 +1,12 @@
 <template>
-  <div class="text-3xl font-bold underline">
-    Hello world
+  <div>
+    <LazyHomeSectionBanner />
+    <LazyHomeSectionExperience />
+    <LazyHomeSectionStart />
+    <LazyHomeSectionSystem />
+    <LazyHomeSectionPayment />
+    <LazyHomeSectionBlog />
+    <LazyHomeSectionContactform />
   </div>
 </template>
 

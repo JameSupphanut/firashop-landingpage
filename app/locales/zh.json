@@ -1,0 +1,504 @@
+{
+    "nav": {
+        "home": "首页",
+        "feature": "功能",
+        "product": "产品",
+        "blog": "博客",
+        "contact": "联系我们"
+    },
+    "navbar": {
+        "language": "语言",
+        "ctaTrial": "注册开店"
+    },
+    "hero": {
+        "headingMain": "一体化",
+        "subHeading": "为现代企业打造",
+        "cta": "免费开始"
+    },
+    "section2": {
+        "heading": "零经验也能像专业人士一样在线销售",
+        "subtext": "一体化网上商店平台，立即开始销售。轻松上手，无需入门费，无需月费。",
+        "features": {
+            "onlineShop": "一体化网上商店系统",
+            "backend": "智能后台系统",
+            "marketing": "支持营销与推广",
+            "security": "安全且用户友好"
+        }
+    },
+    "section3": {
+        "heading": "开始打造适合您的网站",
+        "points": {
+            "design": "精美设计",
+            "easy": "易于使用",
+            "salesReady": "为各种销售场景而生"
+        }
+    },
+    "section4": {
+        "heading": "店主与顾客都能轻松使用",
+        "subtext": "兼容所有设备，让您安心起步",
+        "simulatorTitle": "网站配色模拟器",
+        "themePreviewAlt": "网站主题预览",
+        "themes": {
+            "red": "红色",
+            "blue": "蓝色",
+            "orange": "橙色",
+            "pink": "粉色",
+            "green": "绿色"
+        }
+    },
+    "section5": {
+        "just": "仅",
+        "ofTransactions": "交易额",
+        "costOfChannel": "+ 渠道费用"
+    },
+    "homeArticles": {
+        "badge": "知识更新",
+        "headingMobile": "提升您的在线销售",
+        "headingDesktop": "提升\n在线销售\n助力您的业务",
+        "readAll": "阅读全部",
+        "other": "其他"
+    },
+    "contact": {
+        "left": {
+            "titleLine1": "准备好使用 Firashop",
+            "titleLine2": "为您打造网站",
+            "titleLine3": "了吗？",
+            "subtitle": "注册以获取更多服务信息"
+        },
+        "form": {
+            "title": "联系表单",
+            "firstName": {
+                "label": "名字",
+                "placeholder": "请输入名字"
+            },
+            "lastName": {
+                "label": "姓氏",
+                "placeholder": "请输入姓氏"
+            },
+            "email": {
+                "label": "邮箱",
+                "placeholder": "请输入邮箱"
+            },
+            "phone": {
+                "label": "电话",
+                "placeholder": "请输入电话"
+            },
+            "message": {
+                "label": "留言或兴趣点",
+                "placeholder": "请输入留言或兴趣点"
+            },
+            "submit": "联系我们",
+            "submitting": "发送中...",
+            "error": "出错了，请重试。"
+        },
+        "popup": {
+            "title": "提交成功",
+            "body": "感谢您的关注，我们的团队会尽快与您联系。",
+            "ok": "确定"
+        }
+    },
+    "footer": {
+        "company": {
+            "description": "Firashop 是您的在线商店助手，帮助您立即开始销售，无需高额前期投入。",
+            "address": {
+                "line1": "165/49 Nirvana at Work Village",
+                "line2": "Ramintra 路，Anusawari 分区",
+                "line3": "曼谷 Bang Khen，10220"
+            }
+        },
+        "newsletter": {
+            "title": "订阅新闻邮件",
+            "placeholder": "请输入您的邮箱",
+            "submit": "订阅",
+            "loading": "正在订阅...",
+            "invalidEmail": "邮箱格式不正确",
+            "success": "订阅成功，谢谢！",
+            "failed": "订阅失败，请稍后再试。",
+            "already": "该邮箱已订阅"
+        },
+        "menu": {
+            "title": "菜单",
+            "items": {
+                "home": "首页",
+                "features": "功能",
+                "portfolio": "作品集",
+                "pricing": "定价",
+                "blog": "博客",
+                "contact": "联系我们"
+            }
+        },
+        "help": {
+            "title": "帮助中心",
+            "items": {
+                "privacy": "隐私政策",
+                "terms": "服务条款",
+                "refund": "退款政策",
+                "faq": "常见问题"
+            }
+        },
+        "copyright": "©{year} FiraTechnology. 版权所有。"
+    },
+    "hero01": {
+        "title": "Firashop",
+        "headline": "拥有您的专属网上商店\n即开即用——无需技术背景",
+        "subtext": "我们为希望拥有专业电商网站的企业主\n提供完整的网上商店、后台管理\n以及持续支持。",
+        "cards": [
+            "吸引人的网站设计，彰显您的品牌",
+            "交钥匙式商店，配套后台管理服务",
+            "专业支持团队全程指导",
+            "从小商店到企业级，皆可扩展"
+        ]
+    },
+    "features": {
+        "title": "完整功能套件",
+        "cards": [
+            {
+                "title": "完整的网上商店系统",
+                "items": [
+                    "购物车与结账流程，支持在线支付",
+                    "客户账户：注册/登录、个人资料、订单历史",
+                    "促销功能：优惠券、商品评价",
+                    "支持支付网关（信用卡、PromptPay）"
+                ]
+            },
+            {
+                "title": "智能后台",
+                "items": [
+                    "管理订单、跟踪状态、更新发货",
+                    "自行编辑网站内容/图片",
+                    "自动库存管理",
+                    "详细订单报告（图表或导出 Excel）"
+                ]
+            },
+            {
+                "title": "营销与推广",
+                "items": [
+                    "SEO 友好型网站结构",
+                    "一键分享到社交媒体",
+                    "跨设备响应式设计",
+                    "连接 Google Analytics 和 Search Console"
+                ]
+            },
+            {
+                "title": "安全与用户友好",
+                "items": [
+                    "快速联系按钮：LINE / Messenger / 电话",
+                    "Cookie & PDPA 提示（数据保护合规）",
+                    "启用 HTTPS 安全（SSL 证书）"
+                ]
+            }
+        ]
+    },
+    "howitworks": {
+        "heading": "它是如何运作的？",
+        "subheading": "几步即可轻松开始在线销售",
+        "steps": {
+            "s1": {
+                "title": "1. 联系我们",
+                "content": {
+                    "description": "通过 Line OA 或 Facebook Messenger 联系 Firashop 团队",
+                    "footer": "或使用网站联系表单提交您的初步需求。"
+                }
+            },
+            "s2": {
+                "title": "2. 需求收集",
+                "content": {
+                    "description": "我们会询问一些关键业务信息，例如：",
+                    "items": [
+                        "产品 / 服务类型",
+                        "目标客户群",
+                        "特殊需求（语言、支付方式等）"
+                    ]
+                }
+            },
+            "s3": {
+                "title": "3. 选择基础模板",
+                "content": {
+                    "description": "从我们功能齐全的网店模板中选择并自定义：",
+                    "items": [
+                        "品牌颜色",
+                        "标志",
+                        "插图 / 图片",
+                        "产品类别",
+                        "文案与细节"
+                    ],
+                    "footer": "让您的网站体现品牌特色并脱颖而出。"
+                }
+            },
+            "s4": {
+                "title": "4. 确认您的模板",
+                "content": "当您对布局和功能满意后，我们将在 Firashop 平台为您开通店铺。"
+            },
+            "s5": {
+                "title": "5. 输入您的内容",
+                "content": "通过后台添加标志、主色调、产品类别、联系方式等。我们提供操作指南和视频——立即上手。"
+            },
+            "s6": {
+                "title": "6. 持续指导",
+                "content": "Firashop 团队在您使用期间提供持续支持与建议。"
+            }
+        }
+    },
+    "cta": {
+        "help": {
+            "desktopLines": [
+                "我们提供免费的咨询和初步评估，无需费用。",
+                "不要错过您的商业机会！"
+            ],
+            "mobileLines": [
+                "免费咨询",
+                "附带初步评估",
+                "无需费用。",
+                "不要错过",
+                "您的商业机会！"
+            ],
+            "button": "联系 Firashop 团队"
+        }
+    },
+    "allinone": {
+        "title": {
+            "desktop": [
+                "网店所需的全部核心功能",
+                "尽在一处 — 无需编程"
+            ],
+            "mobile": [
+                "所有核心功能",
+                "满足您的网店需求",
+                "无需编程"
+            ]
+        },
+        "desc": {
+            "desktop": [
+                "立即开始销售，使用为企业主打造的 Webshop，",
+                "精美设计提升您的品牌形象，",
+                "并配备完整的营销工具：优惠券、折扣、促销和 SEO。"
+            ],
+            "mobile": [
+                "立即开始销售，使用专为企业主设计的 Webshop，",
+                "精美设计助力品牌提升，",
+                "并包含完整的营销工具——优惠券、",
+                "折扣、促销和 SEO。"
+            ]
+        },
+        "cta": "立即开始构建"
+    },
+    "prodFeatures": {
+        "items": [
+            {
+                "label": "响应式设计"
+            },
+            {
+                "label": "可自定义设计"
+            },
+            {
+                "label": "轻松管理产品"
+            },
+            {
+                "label": "支持所有产品类型"
+            },
+            {
+                "label": "SEO 就绪"
+            },
+            {
+                "label": "管理订单与客户"
+            }
+        ]
+    },
+    "sectionEasyBuild": {
+        "heading": "像专业人士一样轻松管理",
+        "title": "轻松创建您的网站",
+        "lines": [
+            "自行定制标志、产品图片、详情、颜色和字体。",
+            "操作简便——无需设计或编程经验。"
+        ]
+    },
+    "sectionRichFeatures": {
+        "titleLines": [
+            "功能丰富实用",
+            "满足每个需求",
+            "助力您的网店"
+        ],
+        "descLines": [
+            "从购物车和在线支付到完整的会员系统，",
+            "促销和后台管理——开箱即用，无需额外插件。",
+            "为您的业务扩展而构建。"
+        ]
+    },
+    "sectionMarketing": {
+        "titleLines": [
+            "借助强大的",
+            "一体化在线营销工具成长"
+        ],
+        "descLines": [
+            "SEO 优化、社交分享和 Google Analytics 集成",
+            "帮助客户更容易找到您并衡量关键指标。"
+        ]
+    },
+    "sectionSafety": {
+        "titleLines": [
+            "安全且易于使用",
+            "客户更有信心",
+            "店主更放心"
+        ],
+        "descLines": [
+            "HTTPS (SSL)、Cookie 同意、PDPA 合规与完整联系工具",
+            "合法运营并为所有人建立信任。"
+        ],
+        "imgAlt": "安全、易用、合规"
+    },
+    "sectionDashboard": {
+        "titleLines": [
+            "轻松管理您的后台",
+            "无需 IT 团队"
+        ],
+        "descLines": [
+            "自己即可编辑内容、更新产品图片、查看订单和销售报告。",
+            "包含库存管理和专业报表。"
+        ]
+    },
+    "blog": {
+        "hero": {
+            "titleLines": [
+                "通过新鲜见解提升您的线上销售"
+            ],
+            "subtitleLines": [
+                "遵循实用技巧以更好地理解",
+                "数字营销的世界"
+            ]
+        },
+        "search": {
+            "placeholder": "搜索文章...",
+            "button": "搜索"
+        },
+        "categoriesAll": "所有文章",
+        "state": {
+            "loading": "正在加载文章...",
+            "empty": "此分类下暂无文章",
+            "catError": "加载分类失败",
+            "loadError": "加载文章失败"
+        },
+        "misc": {
+            "other": "其他"
+        }
+    },
+    "blogDetail": {
+        "back": "返回",
+        "breadcrumb": {
+            "aria": "面包屑导航",
+            "home": "首页",
+            "blog": "博客"
+        },
+        "share": {
+            "label": "分享文章"
+        },
+        "recommended": {
+            "title": "推荐博客"
+        },
+        "state": {
+            "notFound": "未找到此文章",
+            "loadError": "加载文章失败"
+        },
+        "misc": {
+            "other": "其他"
+        }
+    },
+    "faq": {
+        "title": "常见问题 (FAQ)",
+        "prefix": {
+            "q": "问：",
+            "a": "答："
+        },
+        "state": {
+            "loading": "正在加载问题...",
+            "error": "加载 FAQ 失败",
+            "empty": "暂无常见问题"
+        }
+    },
+    "contactp": {
+        "hero": {
+            "titleTop": "一个专为",
+            "titleEmphasis": "想要像专业人士一样在线销售的人打造的 Webshop 平台",
+            "titleMobileLine1": "在线销售",
+            "titleMobileLine2": "像专业人士一样"
+        },
+        "images": {
+            "mainAlt": "联系插图",
+            "iconAlt": "装饰图标"
+        },
+        "block": {
+            "heading": {
+                "p1": "我们是一支",
+                "p2": "真正了解在线卖家的团队"
+            },
+            "box": {
+                "p1": {
+                    "line1": "交钥匙式网店，配备完整",
+                    "line2": "后台 —— 易于使用，立即开卖"
+                },
+                "p2": "无需编程 —— 无需额外招聘。",
+                "p3": {
+                    "line1": "无论您是刚刚起步还是要提升店铺，",
+                    "line2": "Firashop 都能为您提供完全可控的商店。"
+                }
+            }
+        }
+    },
+    "Category": "分类",
+    "About Cookies on this website": "关于此网站的Cookie",
+    "Cookies are categorized and you can allow or reject them. Closing a category will remove related cookies from the browser. See the": "Cookie被分类，您可以允许或拒绝它们。关闭一个类别将删除与该类别相关的Cookie。请参阅",
+    "Cookie Policy": "Cookie政策",
+    "for more details": "更多详情",
+    "Essential Cookies": "必要Cookie",
+    "Some cookies are essential for the basic functioning of the website": "某些Cookie对于网站的基本功能是必要的",
+    "Required": "必填",
+    "The website will not work correctly if these cookies are not present and will be enabled by default and cannot be closed": "如果这些Cookie不存在，网站将无法正常工作。默认情况下将启用这些Cookie，并且无法关闭",
+    "Settings": "设置",
+    "Cookies for settings": "设置Cookie",
+    "These cookies help the website remember your settings": "这些Cookie帮助网站记住您的设置",
+    "Analytics Cookies": "分析Cookie",
+    "Help us understand how users use the website": "帮助我们了解用户如何使用网站",
+    "Marketing Cookies": "营销Cookie",
+    "These cookies are used to show relevant ads to you and measure the effectiveness of marketing campaigns": "这些Cookie用于显示与您相关的广告并衡量营销活动的有效性",
+    "Accept All": "接受所有",
+    "Reject All": "拒绝所有",
+    "Save Settings": "保存设置",
+    "Cookie Consent": "Cookie同意",
+    "seo": {
+        "home": {
+            "title": "FiraShop – 一体化B2B电商平台",
+            "description": "使用FiraShop轻松开启网上销售，安全可靠，适合各种企业。"
+        },
+        "product": {
+            "title": "了解FiraShop – B2B电商平台概览",
+            "description": "一个强大的B2B平台，支持网页和移动端，助力企业互联。"
+        },
+        "feature": {
+            "title": "FiraShop 功能 – 智能店铺管理工具",
+            "description": "探索智能后台、安全支付和营销工具，助力B2B发展。"
+        },
+        "blog": {
+            "title": "FiraShop 博客 – B2B电商洞察与技巧",
+            "description": "获取文章、行业新闻和数字营销建议，助力B2B企业。"
+        },
+        "contact": {
+            "title": "联系FiraShop – 与我们取得联系",
+            "description": "获取更多信息或立即开始使用FiraShop。"
+        },
+        "faq": {
+            "title": "常见问题 - FiraShop",
+            "description": "关于一体化网上商店平台 FiraShop 的常见问题。"
+        },
+        "policy": {
+            "title": "隐私政策 - FiraShop",
+            "description": "FiraShop 的隐私政策、个人数据管理和数据保护。"
+        },
+        "terms": {
+            "title": "服务条款 - FiraShop",
+            "description": "FiraShop 的服务条款、平台使用规则和协议。"
+        },
+        "refund": {
+            "title": "退款政策 - FiraShop",
+            "description": "FiraShop 的退款政策、退款申请条件和程序。"
+        }
+    }
+}
