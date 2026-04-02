@@ -1,6 +1,10 @@
 <template>
   <div>
+    <LazyLayoutSectionNavbar />
+    <section id="content">
     <slot />
+    </section>
+    <LazyLayoutSectionFooter />
   </div>
 </template>
 
